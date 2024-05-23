@@ -8,13 +8,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 1 Datos 
 
 
-**Titulo** : Tangerine Town
+**Titulo:**  Tangerine Town
 
 **Web:**   https://adltr.github.io/tangerinetown
 
-**Github:** https://    (url https://github.com/.... )
+**Github:** https://github.com/adltr
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Ana de la Torre Roldán
 
 **Resumen** : lorem ipsun dolor.... 
 
@@ -26,7 +26,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google chrome, ipad 
 
 **Tamaño proyecto:** XXMB 
 
