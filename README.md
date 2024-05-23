@@ -16,33 +16,31 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Ana de la Torre Roldán
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : 'Tangerine Town' se trata de un pequeño pueblo contextualizado en el siglo XIX en el salvaje oeste. Tras cometer un crimen, el jugador principal debe ir escogiendo entre diferentes elecciones hasta conseguir salir ileso del pueblo. Por el camino, se irá encontrando con diferentes personajes y podrá explorar diferentes escenarios. 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  juego de elecciones 
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+
+![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 (insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   Google chrome, ipad 
+**Probado en:**   Google chrome, iphone, ipad
 
-**Tamaño proyecto:** XXMB 
+**Tamaño proyecto:** 13,5MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
         (en caso de dudas revisar https://chooser-beta.creativecommons.org/) 
 
-**Fecha** : xx/xx/2024
+**Fecha** : 24/05/2024
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+- Github: adltr 
+- Instagram: nuyasun
 
 # 2. Memoria del proyecto 
 
@@ -131,14 +129,15 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
+* Musica: 
 * Imágenes:  
-* Tipografía
+* Tipografía: 
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Procreate para Ipad
+
 
 
 
