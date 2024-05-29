@@ -52,15 +52,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
-
+![esquema](https://github.com/adltr/adltr.github.io/blob/main/esquemadenavegacion.jpg)
 
 
 ### Etapa 1: Ideación de proyecto
