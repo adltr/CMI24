@@ -20,11 +20,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  juego de elecciones 
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
 
-![logo](https://github.com/adltr/blob/master/logotipo.png)
+![logo](https://github.com/adltr/cmi20/blob/master/logotipo.png)
 
-(insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
@@ -87,7 +86,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a  
 
 
 
