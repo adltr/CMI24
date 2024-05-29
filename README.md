@@ -55,6 +55,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ![esquema](https://github.com/adltr/adltr.github.io/blob/main/esquemadenavegacion.jpg)
 
 
+# 3. Desarrollo
+
 ### Etapa 1: Ideación de proyecto
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
