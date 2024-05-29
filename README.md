@@ -62,16 +62,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 Este  proyecto es interesante porque:
 1. Tiene una narrativa intrigante: la historia gira en torno a un crimen (cuyo verdadero autor es el protagonista, algo que solo el jugador sabe y debe ocultar), lo cual añade un factor de tensión y diversión.
-2. Es un juego de elecciones: las decisiones del jugador influirán directamente en el desenlace de la historia llevando a diferentes finales. Esta mecánica de elección y consecuencia. 
-
+2. Es un juego de elecciones: las decisiones del jugador influirán directamente en el desenlace de la historia llevando a diferentes finales. Esta mecánica de elección y consecuencia hace el juego adictivo para el jugador, ya que debe elegir lo mejor posible sin poder controlar completamente el resultado.
+3. El sofisticado diseño de guión y personajes: he pasado mucho tiempo en el diseño del juego, lo cual mejora significativamente su calidad. He puesto especial atención y detalle para hacer el juego inmersivo y cómodo para el jugador, aumentando su satisfacción y compromiso con la historia.
 
 
 **Publico / audiencia**
 
-- Orientado a  
-
-
-
+- Orientado a todo tipo de público mayor de 16 años (debido a la presencia de armas de fuego, ejecuciones y una trama estresante que puede herir la sensibilidad del espectador).
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
@@ -79,7 +76,7 @@ Este  proyecto es interesante porque:
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 - Juego. 
-- Video 
+- Video. 
 - Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
 - etc.
