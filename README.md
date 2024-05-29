@@ -51,16 +51,18 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+- La película El bueno, el feo y el malo (entre otros westerns) como inspiración para la idea y la narrativa del juego. 
+- El juego Papers Please como inspiración para los diálogos, interacciones con los personajes, y resultados de las elecciones del juego.
+- El juego Zelda: Breath of the Wild como inspiración para la interfaz de diálogos y elecciones.
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque:
+1. Narrativa intrigante: la historia gira en torno a un crimen (cuyo verdadero autor es el protagonista, algo que solo el jugador sabe y debe ocultar), lo cual añade un factor de tensión y diversión.
+2. 
 
 
 
