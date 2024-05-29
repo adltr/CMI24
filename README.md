@@ -62,7 +62,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 Este  proyecto es interesante porque:
 1. Tiene una narrativa intrigante: la historia gira en torno a un crimen (cuyo verdadero autor es el protagonista, algo que solo el jugador sabe y debe ocultar), lo cual añade un factor de tensión y diversión.
-2. Es un juego de elecciones: las decisiones del jugador influirán directamente en el desenlace de la historia llevando a diferentes 
+2. Es un juego de elecciones: las decisiones del jugador influirán directamente en el desenlace de la historia llevando a diferentes finales. Esta mecánica de elección y consecuencia. 
 
 
 
