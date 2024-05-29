@@ -42,15 +42,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 2. Memoria del proyecto 
 
-### 2.1 Storyboard: 
-
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
-
-### 2.2. Esquema de navegación 
+### Storyboard y esquema de navegación 
 
 ![esquema](https://github.com/adltr/adltr.github.io/blob/main/esquemadenavegacion.jpg)
 
