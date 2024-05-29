@@ -58,6 +58,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - El juego Zelda: Breath of the Wild como inspiración para la interfaz de diálogos y elecciones.
 
 
+
 **Motivación de la propuesta** 
 
 Este  proyecto es interesante porque:
@@ -66,26 +67,33 @@ Este  proyecto es interesante porque:
 3. El sofisticado diseño de guión y personajes: he pasado mucho tiempo en el diseño del juego, lo cual mejora significativamente su calidad. He puesto especial atención y detalle para hacer el juego inmersivo y cómodo para el jugador, aumentando su satisfacción y compromiso con la historia.
 
 
+
 **Publico / audiencia**
 
 - Orientado a todo tipo de público mayor de 16 años (debido a la presencia de armas de fuego, ejecuciones y una trama estresante que puede herir la sensibilidad del espectador).
 
 
+
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+- Personajes:
 
-- Juego. 
-- Video. 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+
+- Escenarios y vídeo:
+
+  
+- Diseño de interfaz: Botones, sonido,
+
+ 
+- Sistema de puntuación: 
+
+
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+(que consideras que no funciona correctamente y por qué )
 
 
 
