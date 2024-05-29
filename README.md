@@ -22,21 +22,20 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : 
 
-![logo](https://github.com/adltr/cmi20/blob/master/logotipo.png)
+![logo](https://github.com/adltr/adltr.github.io/blob/main/logotipo.PNG)
 
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:**   800x600px, tamaño fijo 
 
 **Probado en:**   Google chrome, iphone, ipad
 
 **Tamaño proyecto:** 13,5MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
-        (en caso de dudas revisar https://chooser-beta.creativecommons.org/) 
 
-**Fecha** : 24/05/2024
+**Fecha:**  29/05/2024
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios:** 
 
 - Github: adltr 
 - Instagram: nuyasun
@@ -61,11 +60,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-
-
-# 3. Metodología
-
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 
 
@@ -122,10 +116,6 @@ Este  proyecto es interesante porque ...
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-
 **Recursos y materiales audiovisuales:**
 
 * Musica: 
@@ -140,8 +130,4 @@ Este  proyecto es interesante porque ...
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2024
