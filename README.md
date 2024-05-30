@@ -59,6 +59,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
+
 **Motivación de la propuesta** 
 
 Este  proyecto es interesante porque:
@@ -68,9 +69,11 @@ Este  proyecto es interesante porque:
 
 
 
+
 **Publico / audiencia**
 
 - Recomendado a un público mayor de 16 años (debido a la presencia de armas de fuego, ejecuciones y una trama estresante que puede herir la sensibilidad del espectador).
+
 
 
 
@@ -85,19 +88,21 @@ Este  proyecto es interesante porque:
 - Música y sonido: finalmente, escogí una canción del oeste y la inserté al principio del juego, añadendo una barrita para poder regular el volumen. También incluí un sonido de botón para pasar el texto. Me hubiera gustado añadir más sonidos a lo largo de todo el juego (disparos, voces de personajes, sonidos ambiente), pero contaba con poco tiempo para un juego tan largo. 
 
 
+
 ### Etapa 3: Problemas identificados
 
-- Problemas de hippani: crear tanto texto fue muy tedioso, además se notaba que el programa está pensado para proyectos más simples, ya que en un punto tardaba minutos enteros en crearme texto.
+- Problemas de hippani: aunque hippani me pareció un buen programa por permitir unir animación con programación, vi que otras de las opciones del programa que probé no estaban tan bien oprimizadas. Crear tanto texto fue algo muy tedioso, se notaba que el programa está pensado para proyectos más simples, porque llegó un punto en el que empezó a tardar más en funcionar. En cuanto a la programación, no me dio tantos problemas, aunque por lo que vi en los juegos de mis compañeros, tampoco permitía crear programaciones algo más sofisticadas, como colisiones.
  
-- Poco tiempo: menos clases de lo previsto. reconozco que lo mío era un proyecto muy ambicioso.
+- Poco tiempo: creo que hemos tenido poco tiempo en clase para trabajar en el juego, aunque reconozco que el mío era un proyecto largo y ambicioso. 
+
+
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Como ya he mencionado, el mayor problema al que me he enfrentado ha sido el tiempo. Me hubiera gustado hacer el juego más largo, con todas las elecciones que tenía pensadas desde un principio. Sin embargo, creo que como primer proyecto está bastante bien: he podido mezclar mis dotes artísticos con los nuevos conocimientos que he adquirido sobre programación, he conseguido superar mis espectativas iniciales y estoy contenta con el resulado del juego. He disfrutado mucho de este proyecto y estoy deseando enseñárselo a amigos y familiares para que lo jueguen. 
 
-
-
+Hace unos meses no sabía nada sobre el mundo de la programación, y entender cómo funciona (aunque a un nivel muy básico) te abre un abanico de posibilidades, sobre todo teniendo en cuenta la popularidad e influencia que tienen los videojuegos actualmente. Disfruto bastante de las asignaturas que están relacionadas con el mundo digital y considero que se me dan bien, me encantaría acabar dedicándome a algo relacionado con este campo y esta podría ser una opción.  
 
 
 
@@ -106,9 +111,9 @@ Este  proyecto es interesante porque:
 
 **Recursos y materiales audiovisuales:**
 
-* Musica: 
-* Imágenes:  
-* Tipografía: 
+* Musica: Ross Bugden, The Wild West
+* Tipografía: dafont.com 
+
 
 **Herramientas utilizadas**
 
