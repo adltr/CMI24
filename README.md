@@ -119,7 +119,10 @@ Hace unos meses no sabía nada sobre el mundo de la programación, y entender c�
 
 - Hippani Animator 5.1
 - Procreate para Ipad
+- Adobe Photoshop
 
+Licencias: 
+https://creativecommons.org/licenses/?lang=es
 
 
 
